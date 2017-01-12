@@ -96,6 +96,9 @@ public class Concordance {
         if (word.matches("([a-zA-Z]+\\.+[(a-z)]+\\.)")) {
             return word;
         }
+        if (word.matches("([a-zA-Z]+-+[(a-z)]+)*")) {
+            return word;
+        }
         if (word.matches("[a-zA-Z]+[.!?]+") ) {
             incrementLineIndex = true;
         }
