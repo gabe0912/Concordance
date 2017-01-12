@@ -15,6 +15,10 @@ How to run the program:
 -----------------------
     $ java -jar out/artifacts/concordance_jar/concordance.jar inputDocument.txt
 
+How to see the source code:
+---------------------------
+https://github.com/gabe0912/Concordance/tree/master/src/main/java
+
 Clarifications/Assumptions:
 ---------------------------
 
