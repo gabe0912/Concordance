@@ -13,7 +13,7 @@ How to get the code:
 
 How to run the program:
 -----------------------
-    $ java -jar out/artifacts/blob_jar/blob.jar inputBlob.txt
+    $ java -jar out/artifacts/concordance_jar/concordance.jar inputDocument.txt
 
 Clarifications/Assumptions:
 ---------------------------
